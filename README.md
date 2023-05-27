@@ -4,9 +4,11 @@
 
 Os seguintes arquivos correspondem softwares indicados:
 
-nvim(pasta) -> Neovim
+#### nvim(pasta) → Neovim
 
-.tmux.conf -> Tmux
+** Obs: A pasta do NeoVim se encontra disponível apenas em um repositório separado: https://github.com/gabriel-liraa/nvim_config ** 
 
-alacritty.yml -> Alacritty
+#### .tmux.conf → Tmux
+
+#### alacritty.yml → Alacritty
 
